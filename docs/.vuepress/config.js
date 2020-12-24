@@ -16,6 +16,62 @@ module.exports = {
             { text: 'Soups', link: '/soups/' }
           ],
           lastUpdated: 'Last Updated', // string | boolean
-          smoothScroll: true
+          smoothScroll: true,
+          sidebar: {
+            '/bread/': [{
+              title: 'Bread',
+              collapasble: true,
+              children: [
+                ''
+              ]
+            }],
+            '/breakfast/': [{
+                title: 'Breakfast',
+                collapasble: true,
+                children: [
+                  ''
+                ]
+              }],
+              '/dessert/': [{
+                title: 'Dessert',
+                collapsable: true,
+                children: [
+                  '',
+                  'bars/',
+                  'cakes/',
+                  'candy/',
+                  'cookies/',
+                  'pies/'
+                ]
+              }],
+              '/dips-sauces/': [{
+                title: 'Dips and Sauces',
+                collapasble: true,
+                children: [
+                  ''
+                ]
+              }],
+              '/mains/': [{
+                title: 'Mains',
+                collapsable: true,
+                children: [
+                  '',
+                  'african/',
+                  'american/',
+                  'asian/',
+                  'hispanic/',
+                  'indian/',
+                  'middle-eastern/',
+                  'spanish/'
+                ]
+              }],
+              '/sides/': [{
+                title: 'Sides',
+                collapasble: false,
+                children: [
+                  ''
+                ]
+              }]
+          }
     }
 }
