@@ -19,10 +19,10 @@ type: Muffins
 
 Mix together and bake at 400 degrees for 20-25 minutes
 
-{{% notice tip %}}
+:::tip
 Blueberries, cranberries, apples, or nuts may be added
-{{% /notice %}}
+:::
 
-{{% notice info %}}
+:::tip
 Betty Crocker cookbook uses 1/2 teaspoon salt and 1/2 cup milk
-{{% /notice %}}
+:::
