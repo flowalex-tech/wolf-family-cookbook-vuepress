@@ -1,5 +1,7 @@
 module.exports = {
     dest: 'public',
+    title: 'Wolf Family Cookbook',
+    description: 'Collection of Recipies',
     themeConfig: {
         logo: '/headerimg.png',
         nav: [
