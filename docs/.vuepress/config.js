@@ -12,7 +12,8 @@ module.exports = {
             { text: 'Dips and Sauces', link: '/dips-sauces/' },
             { text: 'Drinks', link: '/drinks/' },
             { text: 'Mains', link: '/mains/' },
-            { text: 'Sides', link: '/sides/' }
+            { text: 'Sides', link: '/sides/' },
+            { text: 'Soups', link: '/soups/' }
           ],
           lastUpdated: 'Last Updated', // string | boolean
           smoothScroll: true
