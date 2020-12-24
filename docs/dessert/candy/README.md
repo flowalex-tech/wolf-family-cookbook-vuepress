@@ -11,3 +11,4 @@ type: Dessert
 ### [Scottish Butter Tablet](./scottish_butter_tablet.html)
 ### [Sponge Candy](./sponge_candy.html)
 ### [Vanilla Caramels](./vanilla_carmels.html)
+### [Beer Pretzel Caramels](./beer_pretzel_caramels.html)
