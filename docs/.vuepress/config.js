@@ -4,7 +4,8 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Breads', link: '/bread/' },
-            { text: 'Breakfast', link: '/breakfast/' }
+            { text: 'Breakfast', link: '/breakfast/' },
+            { text: 'Dessert', link: '/dessert/' }
           ],
           lastUpdated: 'Last Updated', // string | boolean
           smoothScroll: true
