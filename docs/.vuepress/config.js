@@ -1,6 +1,7 @@
 module.exports = {
     dest: 'public',
     themeConfig: {
+        logo: '/headerimg.png',
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Breads', link: '/bread/' },
