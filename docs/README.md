@@ -18,5 +18,5 @@ features:
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 - title: Main Dishes
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Alex Wolf
+footer: GPL3 Licensed | Copyright © 2018-present Alex Wolf
 ---
