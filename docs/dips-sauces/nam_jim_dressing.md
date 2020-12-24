@@ -4,7 +4,7 @@ title: Nam Jim Dressing
 
 # Nam Jim Dressing
 
-![img](images/namjim.jpg)
+![img](/images/namjim.jpg)
 
 
 ## INGREDIENTS:
