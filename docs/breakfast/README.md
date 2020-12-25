@@ -10,9 +10,9 @@ type: Breakfast
 #### [Cake Doughnuts](./cake_doughnuts.html)
 #### [Marie Lorenz's Doughnuts](./marie_lorenz_doughnuts.html)
 
-## Pancakes
+## Pancakes And Waffles
 #### [Vanilla Dutch Baby (Puffed Pancake)](./dutch_baby.html)
-
+#### [King Arthur Belgian-Style Yeast Waffles](./ka_belgium_waffles.html)
 ## Muffins
 #### [Margaret's Muffins](./margarets_muffins.html)
 
