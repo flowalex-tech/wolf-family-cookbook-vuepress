@@ -2,7 +2,7 @@
 title: Vegan Pulled Pork Sandwiches
 author: Alex Wolf
 ---
-# Vegan Mac and Cheese
+# Vegan Pulled Pork Sandwiches
 
 ## Ingredients:
 
