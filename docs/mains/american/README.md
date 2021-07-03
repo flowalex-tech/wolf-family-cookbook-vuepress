@@ -21,4 +21,4 @@ type: Mains
 ## Vegan/ Vegetarian
 #### [Veggie Pizza](./veggie_pizza.html)
 #### [Vegan Mac and Cheese](./vegan_mac_and_cheese.html)
-#### [Vegan Mac and Cheese](./vegan-pulled-pork-sandwiches.html)
+#### [Vegan Pulled Pork Sandwiches](./vegan-pulled-pork-sandwiches.html)
