@@ -4,6 +4,8 @@ author: Margaret McCarney
 type: Soups
 ---
 
+# Carrot Curry Soup
+
 Saute 1 onion in butter/substitute until tender
 
 Chop up and add
