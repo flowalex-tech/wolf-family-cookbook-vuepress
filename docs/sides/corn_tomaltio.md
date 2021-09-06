@@ -15,7 +15,7 @@ type: Side Dishes
 * 3/4 cup cornmeal
 * 3/4 teaspoon baking powder
 * 3/4 teapsoon salt
-* 1/4 cup milk
+* 1/4 cup milk (optional)
 
 ## Directions:
 
