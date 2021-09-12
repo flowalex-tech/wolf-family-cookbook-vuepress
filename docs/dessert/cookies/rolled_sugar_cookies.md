@@ -4,7 +4,7 @@ author: Alex Wolf
 type: Cookies
 ---
 
-# Oatmeal Date Cookies
+# Rolled Sugar Cookies
 
 :::tip
 Makes 5 Dozen Cookies
