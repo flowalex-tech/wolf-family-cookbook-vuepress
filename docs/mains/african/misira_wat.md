@@ -2,6 +2,7 @@
 title: Misira Wat
 author: Bilen
 ---
+# Misira Wat
 
 * 1 onion with a lot of oil
 * 1 stub of ginger, minced
