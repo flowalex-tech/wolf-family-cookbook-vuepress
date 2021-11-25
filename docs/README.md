@@ -20,3 +20,6 @@ features:
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: GPL3 Licensed | Copyright © 2018-present Alex Wolf
 ---
+::: danger
+IMPORTANT: Site has moved to [cookbook.alexanderwolf.io](cookbook.alexanderwolf.io)
+:::
